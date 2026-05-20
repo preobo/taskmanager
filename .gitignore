@@ -1,0 +1,3 @@
+taskmanager
+*.o
+.DS_Store
